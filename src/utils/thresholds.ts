@@ -1,0 +1,6 @@
+export const SPOILAGE_THRESHOLDS = {
+  LOW: 20,
+  MEDIUM: 40,
+  HIGH: 70,
+  CRITICAL: 90
+};
